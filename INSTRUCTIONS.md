@@ -142,11 +142,11 @@ flowchart TB
   class MODE,REPORT,HOLD,BUD,SEC,REL control;
 ```
 
-### Concept architecture PNG
+### Concept architecture image (SVG)
 
-The PNG below is the approved visual companion to the Mermaid flow above. It is a real file stored alongside this document at `assets/Email_Outreach_Agent_Concept_v2.png`, so it renders in GitHub, Codespaces and ordinary Markdown previewers when the directory is kept intact.
+The SVG below is the approved visual companion to the Mermaid flow above. It is a real file stored alongside this document at `assets/Email_Outreach_Agent_Concept_v2.svg`, so it renders in GitHub, Codespaces and ordinary Markdown previewers when the directory is kept intact.
 
-![Email Outreach Agent — concept architecture v2](assets/Email_Outreach_Agent_Concept_v2.png)
+![Email Outreach Agent — concept architecture v2](assets/Email_Outreach_Agent_Concept_v2.svg)
 
 ### Classified implementation folder structure
 
