@@ -156,8 +156,7 @@ The SVG below is the approved visual companion to the Mermaid flow above. It is 
 email-outreach-agent/
 ├── INSTRUCTIONS.md                          [SPEC] Single architecture and build document
 ├── README.md                                [SPEC] Scaffold status; points to INSTRUCTIONS.md
-├── assets/                                  [ASSET] Embedded architecture images
-│   ├── Email_Outreach_Agent_Concept_v2.png
+├── assets/                                  [ASSET] Embedded concept architecture
 │   └── Email_Outreach_Agent_Concept_v2.svg
 ├── pyproject.toml                           [OPS] Python packaging and dependencies
 ├── langgraph.json                          [OPS] Official LangGraph graph entry point
